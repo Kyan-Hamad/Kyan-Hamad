@@ -1,22 +1,7 @@
-### Hi there 👋
+# Hello there! 👋 
 
-My name is Kyan Hamad and I am a former Biochemist moving to the Tech field.
+I'm Kyan Hamad, a former Biochemist transitioning into the Tech field.
 
-I am a student at Baruch College studying CIS with a focus on Cybersecurity. In my downtime, I like to create light fixtures or vinyl displays and incorporate LEDs throughout my NYC apartment. I flash esp32s with [WLED](https://github.com/Aircoookie/WLED) and solder LED strips to control the lighting.
+Currently, I am a student at Baruch College, majoring in CIS with a focus on Cybersecurity. During my downtime, I enjoy crafting light fixtures and vinyl displays, incorporating LEDs to enhance the ambiance of my NYC apartment. I specialize in flashing esp32s with WLED and soldering LED strips to have precise control over the lighting.
 
-Take a look at my repositories to see any current/finished projects I've been working on!
-
-<!--
-**Kyan-Hamad/Kyan-Hamad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Feel free to explore my repositories to discover any ongoing or completed projects I've been passionately working on!
